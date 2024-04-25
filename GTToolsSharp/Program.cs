@@ -657,6 +657,7 @@ namespace GTToolsSharp
             {
                 KeysetStore.Keyset_DEFAULT,
 
+                KeysetStore.Keyset_GT5P_JP,
                 KeysetStore.Keyset_GT5P_SPEC2_US_PSN,
                 KeysetStore.Keyset_GT5P_US_SPEC3,
                 KeysetStore.Keyset_GT5P_EU_SPEC3,
